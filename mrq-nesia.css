@@ -1,0 +1,22 @@
+.marquee-parent {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 20px;
+background:#transparent;
+}
+.marquee-child {
+background:#transparent;
+  display: block;
+  width: 100%;
+  /* width of your text div */
+  height: 20px;
+  /* height of your text div */
+  position: absolute;
+  animation: marquee 41.7s linear infinite; /* change 5s value to your desired speed */
+}
+.marquee-child:hover {
+background:#transparent;
+  animation-play-state: paused;
+  cursor: pointer;
+}
