@@ -93,7 +93,7 @@ animation: rotate 2.0s infinite linear;
   white-space: nowrap;
   word-wrap: normal;
   direction: ltr;
-  -webkit-font-feature-settings: &#39;liga&#39;;
+  -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased; }
 
 #mc-imvunesiaShop {
@@ -144,7 +144,7 @@ small {font-weight: normal; white-space: normal;}#myTab li {border-right: 1px so
 /* SOCIAL-->
 ul.social{list-style:none;display:inline-block;margin:15px auto}ul.social li{display:inline;float:left;background-repeat:no-repeat;height:23px;width:23px}ul.social li a{display:block;height:23px;width:23px;padding-right:10px;position:relative;text-decoration:none}
 
-ul.social li a strong{display:block; font-weight:400;position:absolute;left:0;margin-top:-20px;color:#fff;z-index:9999;text-shadow:1px 1px 0 rgba(0,0,0,0.75);background-color:rgba(0,0,0,0.7);-moz-border-radius:3px;-moz-box-shadow:0 0 5px rgba(0,0,0,0.5);-webkit-border-radius:3px;-webkit-box-shadow:0 0 5px rgba(0,0,0,0.5);border-radius:3px;box-shadow:0 0 5px rgba(0,0,0,0.5);padding:3px}ul.social li.facebook{background-image:url(https://goo.gl/wshtZF);background-size:23px 23px}ul.social li.twitter{background-image:url(https://goo.gl/NUZJVK);background-size:23px 23px}ul.social li.googleplus{background-image:url(https://goo.gl/DGRXrt);background-size:23px 23px}ul li.pinterest{background-image:url(https://goo.gl/PBa7Fb);background-size:23px 23px}ul.social li.stumbleupon{background-image:url(https://goo.gl/tjehCQ);background-size:23px 23px}ul.social li.delicious{background-image:url(https://goo.gl/SFSjR3);background-size:23px 23px}ul.social li.linkedin{background-image:url(https://goo.gl/bw8Tyr);background-size:23px 23px}ul.social li.reddit{background-image:url(https://goo.gl/Ymrhk1);background-size:23px 23px}ul.social li.technorati{background-image:url(https://goo.gl/GmrRqn);background-size:23px 23px}#cssanimation:hover li{opacity:.2}#cssanimation li{-webkit-transition-property:opacity;-webkit-transition-duration:500ms;-moz-transition-property:opacity;-moz-transition-duration:500ms}#cssanimation li a strong{opacity:0;-webkit-transition-property:opacity,top;-webkit-transition-duration:300ms;-moz-transition-property:opacity,top;-moz-transition-duration:300ms}#cssanimation li:hover{opacity:1}#cssanimation li:hover a strong{opacity:1;top:-10px}.headinglordhtml{font-size:25px;font-family:&#39;Englebert&#39;,sans-serif}.sharelordhtml{border-top:30px solid #3873cc;padding:16px;-webkit-box-shadow:0 7px 9px rgba(50,50,50,0.75);-moz-box-shadow:0 7px 9px rgba(50,50,50,0.75);box-shadow:0 7px 9px rgba(50,50,50,0.75);transition:background .777s;-webkit-transition:background .777s;-moz-transition:background .777s;-o-transition:background .777s;-ms-transition:background .777s;background:#d9d6ff}.sharelordhtml:hover{background:white}  
+ul.social li a strong{display:block; font-weight:400;position:absolute;left:0;margin-top:-20px;color:#fff;z-index:9999;text-shadow:1px 1px 0 rgba(0,0,0,0.75);background-color:rgba(0,0,0,0.7);-moz-border-radius:3px;-moz-box-shadow:0 0 5px rgba(0,0,0,0.5);-webkit-border-radius:3px;-webkit-box-shadow:0 0 5px rgba(0,0,0,0.5);border-radius:3px;box-shadow:0 0 5px rgba(0,0,0,0.5);padding:3px}ul.social li.facebook{background-image:url(https://goo.gl/wshtZF);background-size:23px 23px}ul.social li.twitter{background-image:url(https://goo.gl/NUZJVK);background-size:23px 23px}ul.social li.googleplus{background-image:url(https://goo.gl/DGRXrt);background-size:23px 23px}ul li.pinterest{background-image:url(https://goo.gl/PBa7Fb);background-size:23px 23px}ul.social li.stumbleupon{background-image:url(https://goo.gl/tjehCQ);background-size:23px 23px}ul.social li.delicious{background-image:url(https://goo.gl/SFSjR3);background-size:23px 23px}ul.social li.linkedin{background-image:url(https://goo.gl/bw8Tyr);background-size:23px 23px}ul.social li.reddit{background-image:url(https://goo.gl/Ymrhk1);background-size:23px 23px}ul.social li.technorati{background-image:url(https://goo.gl/GmrRqn);background-size:23px 23px}#cssanimation:hover li{opacity:.2}#cssanimation li{-webkit-transition-property:opacity;-webkit-transition-duration:500ms;-moz-transition-property:opacity;-moz-transition-duration:500ms}#cssanimation li a strong{opacity:0;-webkit-transition-property:opacity,top;-webkit-transition-duration:300ms;-moz-transition-property:opacity,top;-moz-transition-duration:300ms}#cssanimation li:hover{opacity:1}#cssanimation li:hover a strong{opacity:1;top:-10px}.headinglordhtml{font-size:25px;font-family:'Englebert',sans-serif}.sharelordhtml{border-top:30px solid #3873cc;padding:16px;-webkit-box-shadow:0 7px 9px rgba(50,50,50,0.75);-moz-box-shadow:0 7px 9px rgba(50,50,50,0.75);box-shadow:0 7px 9px rgba(50,50,50,0.75);transition:background .777s;-webkit-transition:background .777s;-moz-transition:background .777s;-o-transition:background .777s;-ms-transition:background .777s;background:#d9d6ff}.sharelordhtml:hover{background:white}  
 /* ANMADE-->
 
 .animated {-webkit-animation-duration: 1s;animation-duration: 1s;-webkit-animation-fill-mode: both;animation-fill-mode: both;}
@@ -213,7 +213,7 @@ cursor:pointer;
     box-sizing:border-box;
 }
 
-/*.price:after {content: &#39;Buy&#39;; display: block; float: right;}*/
+/*.price:after {content: 'Buy'; display: block; float: right;}*/
 
 .package:hover {border: 1px solid #FFC800; box-shadow: 1px 2px 6px #9C9C81}
 
@@ -287,15 +287,15 @@ a.payarr.payps:after{width: 8px; height: 2px; top: 14px; left: 7px;}
 a.payarr.payn {top: 63px; right: 7px;}
 a.payarr.payn:before{width: 8px; height: 2px; top: 8px; left: 7px;}
 a.payarr.payn:after{width: 8px; height: 2px; top: 13px; left: 7px;}
-.package package_custom_flexible .vc_in&gt;br {display:none}
+.package package_custom_flexible .vc_in>br {display:none}
 .bonus {position: absolute;    top: 105px;    left: 10px;
     right: 10px;
     font-size: 12px;
    color: #757575;font-weight:normal;
 }
 
-.vc .vc_in&gt;br {display:none}
-.vc .vc_in&gt;span,.vc .vc_in&gt;strong {display:block;}
+.vc .vc_in>br {display:none}
+.vc .vc_in>span,.vc .vc_in>strong {display:block;}
 
 /*** products ***/
 
@@ -387,7 +387,7 @@ li.package .coins {
 }
 
 /*.tag2 div {
-    background: url(&#39;https://api.paymentwall.com/content/design/files/widgets/imvu/imvu-star.png&#39;), linear-gradient(rgba(62,200,51,1), rgb(29, 151, 23));
+    background: url('https://api.paymentwall.com/content/design/files/widgets/imvu/imvu-star.png'), linear-gradient(rgba(62,200,51,1), rgb(29, 151, 23));
     background-repeat: no-repeat;
 }*/
 
@@ -414,10 +414,11 @@ color: white;
 }
 
 .clearfix::after {
-	content: &#39;&#39;;
+	
 	display: table;
 	width: 100%;
-	clear: both;
+	
+	
 }
 
 .choose-package {
